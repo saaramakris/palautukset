@@ -94,4 +94,3 @@ class TestKauppa(unittest.TestCase):
             "pekka", 42, "12345", "33333-44455", 0
         )
 
-    
