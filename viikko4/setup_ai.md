@@ -1,0 +1,1 @@
+Mielestäni agentti poisti loogisesti turhan toistuvat asiat ja testikoodista tuli paljon helpommin luettava, koodin määrä väheni noin 100 rivillä eli tosi paljon myös tiivisti. Ei tarvinnut korjailla mitään ja testit meni heti läpi. Mielestäni ei juurikaan muuttanut testien toiminnallisuutta. 
